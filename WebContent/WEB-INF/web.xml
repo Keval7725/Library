@@ -12,7 +12,7 @@
 		</servlet-class>
 	</servlet>
 	<servlet-mapping>
-		<servlet-name>ajay</servlet-name>
+		<servlet-name>keval</servlet-name>
 		<url-pattern>/</url-pattern>
 	</servlet-mapping>
   
